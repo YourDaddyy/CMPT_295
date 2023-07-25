@@ -1,3 +1,3 @@
-# CMPT_300
-File repository for SFU CMPT 300 course's assignment.
+# CMPT_295
+File repository for SFU CMPT 295 course's assignment.
 From as4 - as6.
